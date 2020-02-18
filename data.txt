@@ -1,0 +1,8 @@
+ER78ER   0    200218142041   xxxxxxxxxxxx
+F78452   1    xxxxxxxxxxxx   xxxxxxxxxxxx   457845      55
+A21343   0    200218134759   200218134711
+E4232R   1    xxxxxxxxxxxx   xxxxxxxxxxxx   647845      69
+Q31231   1    xxxxxxxxxxxx   xxxxxxxxxxxx   798745      78
+LO3243   2    xxxxxxxxxxxx   xxxxxxxxxxxx   798789      210902
+YU9897   2    xxxxxxxxxxxx   xxxxxxxxxxxx   897979      210218
+S423D3   2    200218144221   xxxxxxxxxxxx   123456      210213
